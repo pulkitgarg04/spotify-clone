@@ -19,7 +19,7 @@ A simple Spotify user interface (UI) clone made with HTML and CSS. This project 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spotify-clone-ui.git
+https://github.com/pulkitgarg04/spotify-clone.git
 ```
 
 2. Open the folder.
